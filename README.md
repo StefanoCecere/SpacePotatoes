@@ -41,3 +41,11 @@ Es.  1 ABCD=DABC  3 ABCD=BCDA
 3) Tempesta: Rigira tutte le carte azione speciale. Ogni giocatore scarta tutte le proprie carte azione speciale. Infine si rimischia la pila degli scarti nel mazzo.
 4) Meteorite: -2 punti cibo a i giocatori sulle caselle rosse
 
+## Credits
+un gioco ideato, progettato e sviluppato da
+- Fabio Cecere
+- Enea Polsinelli
+- Adele Boas
+- Ulisse
+- Alessandro Mancini
+
